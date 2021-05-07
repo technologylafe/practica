@@ -1,0 +1,1 @@
+yum install oracle-rdbms-server-12cR1-preinstall compat-libstdc++-33.i686 glibc-devel.i686 libstdc++.i686 libstdc++-devel libaio.i686 libaio-devel.i686 libXext.i686 libXtst.i686 unixODBC unixODBC-devel zlib nmap ntfs-3g  zlib-devel elfutils-libelf xorg-x11-server-Xorg xorg-x11-xauth xorg-x11-apps xorg-x11-server-utils xterm
